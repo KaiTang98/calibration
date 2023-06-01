@@ -1,3 +1,12 @@
+# image and txt file ignore
+.jpg
+.bmp
+.png
+.jpeg
+.txt
+.csv
+.npy
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
