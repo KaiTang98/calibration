@@ -1,1 +1,0 @@
-activate ufast_infinicam & python SingleSave_INFINICAM.py & pause()
