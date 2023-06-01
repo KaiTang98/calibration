@@ -1,0 +1,1 @@
+conda activate TF & python EndFlag.py
